@@ -19,3 +19,11 @@ improve different aspects of many industries. Expanding e-voting into blockchain
 technology could be the solution to alleviate the present concerns in e-voting. Here we 
 propose a blockchain-based voting system that will limit the voting fraud and make the 
 voting process simple, secure and efficient.
+
+
+## Work Done
+Two modules are as follows:
+1. Front-end for the application
+2. Back-end using Solidity to implement Blockchain.
+
+![img](https://user-images.githubusercontent.com/95043839/232293915-da7f5185-0e03-4907-9a5b-6a17dcad5b1f.png)
