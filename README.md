@@ -1,4 +1,4 @@
-# Online-Voting-System
+# Online-Voting-System using Blockchain
 Blockchain technology usage for developing an E-voting system
 
 ## Brief Idea about the project
